@@ -1,0 +1,17 @@
+.important {
+    color:red;
+}
+.unimportant
+{
+    color: blue;
+    font-size: 30px;
+    font-family: sans-serif;
+word-spacing: 0px;
+}
+.janet{
+    font-size: 40px;
+}
+.wildcats{
+    text-emphasis: bold;
+    font-style: italic;
+}
