@@ -1,17 +1,43 @@
+body{
+    background-image: url("/images/pexels-photo-861339.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-position: center;
+}
 .important {
     color:red;
+
+    margin-left:2px;
+    margin-top: 0.1px;
+    
 }
-.unimportant
-{
-    color: blue;
-    font-size: 30px;
-    font-family: sans-serif;
-word-spacing: 0px;
-}
-.janet{
-    font-size: 40px;
-}
+
 .wildcats{
     text-emphasis: bold;
     font-style: italic;
+}
+
+.important p{
+    font-style: normal;
+    font-size: 20px;
+    word-spacing: 4px;
+}
+.important h2{
+    text-align: center;
+    font-size: 70px;
+    color: black;
+}
+.important img{
+    margin:5px;
+    width: 200px;
+    border:2px solid rgb(207, 7, 41);
+    padding:20px;
+    margin-left: 3px;
+    
+
+}
+h1{
+    text-align: center;
+    margin: 20px;
+    font-size: 50px;
 }
